@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hispanic Americans in Engineering and Computer Sciences",
     "section": "",
-    "text": "1 Introduction",
+    "text": "1 Introduction\nTopic: Understanding the representation of latinos in STEM education\nWe are focusing our project on Hispanic representation in STEM education in the United States. As Hispanic students in STEM, we are interested in understanding how Hispanic students in these fields have changed and the factors that influence this change. Even though there are a lot of Hispanic Americans in the United States, we continue to be underrepresented in science, technology, engineering, and math careers. We were inspired to pursue this topic by reading the 2024 SHPE-LDC U.S. Latinos in Engineering and Tech Report, which aggregates data from different public sources to understand the trends in education and in career paths for Latinos. So, we want to work on something similar by using public data sources to create visualizations to understand different patterns related to the participation of Hispanics in STEM education.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -14,7 +14,7 @@
     "href": "data.html",
     "title": "2  Data",
     "section": "",
-    "text": "2.1 Description",
+    "text": "2.1 Description\nWe will be using data tables from the National Center for Science and Engineering Statistics (NCSES), which is a part of the National Science Foundation (NSF).\nLocated here: https://ncses.nsf.gov/indicators/data\nThis data is obtained from federal surveys conducted by the NCSES, such as the Integrated Postsecondary Education Data System (IPEDS) and the NSF Survey of Earned Doctorates.\nThe data is available in aggregated tables, which are readily downloadable from in Excel (.xlsx) format.\nNew data is released towards the beginning of each calendar year, with data on the website ranging from 2019-2025.\nThere are multiple tables, each with a relatively small dimension, which include aggregated data summaries.\nWe plan to compare these statistics, visualize to compare data and find patterns.\nSome of the tables that we plan to use include\n‘Associate’s degrees awarded, by field, sex, citizenship, race, and ethnicity: 2012–21’\n‘Bachelor’s degrees awarded, by field, sex, citizenship, race, and ethnicity: 2012–21’\n‘Master’s degrees awarded, by field, sex, citizenship, race, and ethnicity: 2012–21’\n‘Doctoral degrees awarded, by field, sex, citizenship, race, and ethnicity: 2012–21’\n‘Average mathematics and science assessment test scores of children who were in kindergarten for the first time during the 2010–11 school year and in grade 5 during the 2015–16 school year, by child and family characteristics’\nTable Example:",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data</span>"
     ]
@@ -24,7 +24,7 @@
     "href": "data.html#missing-value-analysis",
     "title": "2  Data",
     "section": "2.2 Missing value analysis",
-    "text": "2.2 Missing value analysis",
+    "text": "2.2 Missing value analysis\nTables of each type, including Elementary School, High School, Associates, Bachelors, Masters, Doctorate do not always align in exact years. For example there may be elementary school data for 2012 but not associates data.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data</span>"
     ]

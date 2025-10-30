@@ -1,5 +1,36 @@
 # Data
 
+We will be using data tables from the National Center for Science and Engineering Statistics (NCSES), which is a part of the National Science Foundation (NSF). 
+
+Located here: https://ncses.nsf.gov/indicators/data
+
+This data is obtained from federal surveys conducted by the NCSES, such as the Integrated Postsecondary Education Data System (IPEDS) and the NSF Survey of Earned Doctorates.
+
 ## Description
+The data is available in aggregated tables, which are readily downloadable from in Excel (.xlsx) format. 
+
+New data is released towards the beginning of each calendar year, with data on the website ranging from 2019-2025. 
+
+There are multiple tables, each with a relatively small dimension, which include aggregated data summaries.
+
+We plan to compare these statistics, visualize to compare data and find patterns. 
+
+Some of the tables that we plan to use include
+
+'Associate's degrees awarded, by field, sex, citizenship, race, and ethnicity: 2012–21'
+
+'Bachelor's degrees awarded, by field, sex, citizenship, race, and ethnicity: 2012–21'
+
+'Master's degrees awarded, by field, sex, citizenship, race, and ethnicity: 2012–21'
+
+'Doctoral degrees awarded, by field, sex, citizenship, race, and ethnicity: 2012–21'
+
+'Average mathematics and science assessment test scores of children who were in kindergarten for the first time during the 2010–11 school year and in grade 5 during the 2015–16 school year, by child and family characteristics'
+
+Table Example:
+
+![](table_example.png)
 
 ## Missing value analysis
+
+Tables of each type, including Elementary School, High School, Associates, Bachelors, Masters, Doctorate do not always align in exact years. For example there may be elementary school data for 2012 but not associates data.

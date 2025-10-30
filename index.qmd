@@ -1,1 +1,4 @@
 # Introduction
+Topic: Understanding the representation of latinos in STEM education
+
+We are focusing our project on Hispanic representation in STEM education in the United States. As Hispanic students in STEM, we are interested in understanding how Hispanic students in these fields have changed and the factors that influence this change. Even though there are a lot of Hispanic Americans in the United States, we continue to be underrepresented in science, technology, engineering, and math careers. We were inspired to pursue this topic by reading the 2024 SHPE-LDC U.S. Latinos in Engineering and Tech Report, which aggregates data from different public sources to understand the trends in education and in career paths for Latinos. So, we want to work on something similar by using public data sources to create visualizations to understand different patterns related to the participation of Hispanics in STEM education.
