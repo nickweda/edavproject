@@ -26,5 +26,6 @@ format:
   html:
     theme: cosmo
     code-fold: true
+    embed-resources: true
 
 
